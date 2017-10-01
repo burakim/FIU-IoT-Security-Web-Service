@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FIU-IoT-Security-Web-Service.iml" filepath="$PROJECT_DIR$/FIU-IoT-Security-Web-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FIU-IoT-Security-Web-Service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FIU-IoT-Security-Web-Service_main.iml" group="FIU-IoT-Security-Web-Service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FIU-IoT-Security-Web-Service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FIU-IoT-Security-Web-Service_test.iml" group="FIU-IoT-Security-Web-Service" />
+    </modules>
+  </component>
+</project>
